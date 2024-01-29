@@ -1,0 +1,4 @@
+repository "system_solar@SouhailFoudhaili@cloud"
+  path "/"
+    br "/main"
+    co "/main"
